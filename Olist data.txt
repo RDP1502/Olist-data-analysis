@@ -1,0 +1,3 @@
+In this file analyzed the olist dataset and i found that
+the  strong demand in urban regions, highlights logistical inefficiencies, and provides a clear view of customer behavior and satisfaction across the platform 
+— useful for both operational and strategic decisions.
